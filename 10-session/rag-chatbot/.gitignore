@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Secrets — the API key must never go to GitHub
+.env
+
+# macOS
+.DS_Store
+~$*
